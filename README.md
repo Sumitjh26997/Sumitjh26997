@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on projects focusing on Blockchain and decentralization.
 - 📫 How to reach me sumit.hotchandani@gmail.com
 
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumitjh26997&theme=github_dark&show_icons=true)
-
 
 <!---
 Sumitjh26997/Sumitjh26997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
