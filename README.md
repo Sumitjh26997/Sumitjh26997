@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumitjh26997
 - 👀 I’m interested in Blockchain, Decentralized Identity, NFTs
-- 🌱 I’m currently learning Solidity, NodeJS, ReactJS and AWS fundamentals
+- 🌱 I’m currently learning Solidity, NodeJS, ReactJS 
 - 💞️ I’m looking to collaborate on projects focusing on Blockchain and decentralization.
 - 📫 How to reach me sumit.hotchandani@gmail.com
 
