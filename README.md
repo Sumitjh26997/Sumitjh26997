@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sumitjh26997
-- 👀 I’m interested in Distributed Systems, Algorithms and
+- 👀 I’m interested in Distributed Systems, Algorithms and Parallel Programming
 - 🌱 I’m currently learning Java, TypeScript, C++ 
 - 💞️ I’m looking for Summer Internships.
 - 📫 How to reach me sumitjh@uw.edu
